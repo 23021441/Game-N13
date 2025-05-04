@@ -1,0 +1,855 @@
+# depslib dependency file v1.0
+1743382400 source:d:\new folder\zat\zat.cpp.cpp
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1737478348 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_assert.h>
+	<SDL3/SDL_asyncio.h>
+	<SDL3/SDL_atomic.h>
+	<SDL3/SDL_audio.h>
+	<SDL3/SDL_bits.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_camera.h>
+	<SDL3/SDL_clipboard.h>
+	<SDL3/SDL_cpuinfo.h>
+	<SDL3/SDL_dialog.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_filesystem.h>
+	<SDL3/SDL_gamepad.h>
+	<SDL3/SDL_gpu.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_haptic.h>
+	<SDL3/SDL_hidapi.h>
+	<SDL3/SDL_hints.h>
+	<SDL3/SDL_init.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_loadso.h>
+	<SDL3/SDL_locale.h>
+	<SDL3/SDL_log.h>
+	<SDL3/SDL_messagebox.h>
+	<SDL3/SDL_metal.h>
+	<SDL3/SDL_misc.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_pen.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_platform.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_process.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_render.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_storage.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_system.h>
+	<SDL3/SDL_thread.h>
+	<SDL3/SDL_time.h>
+	<SDL3/SDL_timer.h>
+	<SDL3/SDL_tray.h>
+	<SDL3/SDL_touch.h>
+	<SDL3/SDL_version.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_oldnames.h>
+
+1737483561 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_stdinc.h
+	<SDL3/SDL_platform_defines.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdbool.h>
+	<alloca.h>
+	<stdlib.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	<SDL3/SDL_begin_code.h>
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_platform_defines.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_begin_code.h
+
+1735746352 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_close_code.h
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_assert.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<assert.h>
+	<signal.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_asyncio.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_atomic.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_platform_defines.h>
+	<SDL3/SDL_begin_code.h>
+	<mbarrier.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_audio.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_endian.h
+	<SDL3/SDL_stdinc.h>
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_error.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_mutex.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_atomic.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_thread.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483561 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_thread.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_atomic.h>
+	<process.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_properties.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_iostream.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_bits.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_blendmode.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_camera.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_pixels.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_surface.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_rect.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_clipboard.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_cpuinfo.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_dialog.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_video.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_events.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_audio.h>
+	<SDL3/SDL_camera.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_gamepad.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_pen.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_touch.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_gamepad.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_guid.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_joystick.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483561 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_power.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_sensor.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_keyboard.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_keycode.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_scancode.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_scancode.h
+	<SDL3/SDL_stdinc.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_mouse.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483561 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_pen.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_touch.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_touch.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_filesystem.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483561 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_gpu.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_haptic.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_hidapi.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483561 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_hints.h
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_init.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_loadso.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_locale.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_log.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_messagebox.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_metal.h
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_misc.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_platform.h
+	<SDL3/SDL_platform_defines.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_process.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_render.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_storage.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_filesystem.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_system.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_time.h
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_timer.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_tray.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737483145 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_version.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1735867089 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_oldnames.h
+	<SDL3/SDL_platform_defines.h>
+
+1740895321 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_ttf.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1743404103 source:d:\new folder\zat\ai.cpp
+	"ai.h"
+
+1743401806 d:\new folder\zat\ai.h
+	"game.h"
+
+1743688896 d:\new folder\zat\game.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<string>
+	<SDL3/SDL_image.h>
+
+1743688834 source:d:\new folder\zat\game.cpp
+	"game.h"
+	"ai.h"
+	<iostream>
+	<SDL3/SDL_timer.h>
+
+1743688860 source:d:\new folder\zat\main.cpp
+	"game.h"
+	"render.h"
+	"menu.h"
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<SDL3/SDL_image.h>
+	<ctime>
+
+1743688939 d:\new folder\zat\render.h
+	"game.h"
+
+1743403886 d:\new folder\zat\menu.h
+	"game.h"
+
+1743689270 source:d:\new folder\zat\menu.cpp
+	"menu.h"
+	"render.h"
+
+1743691515 source:d:\new folder\zat\render.cpp
+	"render.h"
+	"menu.h"
+	<cmath>
+	<SDL3/SDL_surface.h>
+
+1741038197 c:\users\abc\downloads\compressed\sdl3-devel-3.2.0-mingw\sdl3-3.2.0\x86_64-w64-mingw32\include\sdl3\sdl_image.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1743404103 source:d:\lam game ltnc\zat\ai.cpp
+	"ai.h"
+
+1743401806 d:\lam game ltnc\zat\ai.h
+	"game.h"
+
+1743688896 d:\lam game ltnc\zat\game.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<string>
+	<SDL3/SDL_image.h>
+
+1743688834 source:d:\lam game ltnc\zat\game.cpp
+	"game.h"
+	"ai.h"
+	<iostream>
+	<SDL3/SDL_timer.h>
+
+1743948917 source:d:\lam game ltnc\zat\main.cpp
+	"game.h"
+	"render.h"
+	"menu.h"
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<SDL3/SDL_image.h>
+	<ctime>
+
+1743948724 d:\lam game ltnc\zat\render.h
+	"game.h"
+
+1743403886 d:\lam game ltnc\zat\menu.h
+	"game.h"
+
+1743948925 source:d:\lam game ltnc\zat\menu.cpp
+	"menu.h"
+	"render.h"
+
+1743949024 source:d:\lam game ltnc\zat\render.cpp
+	"render.h"
+	"menu.h"
+	<cmath>
+	<SDL3/SDL_surface.h>
+
+1743404103 source:d:\new folder\tictoctoe\zat\ai.cpp
+	"ai.h"
+
+1744006564 d:\new folder\tictoctoe\zat\ai.h
+	"game.h"
+
+1744006144 d:\new folder\tictoctoe\zat\game.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<string>
+
+1743688834 source:d:\new folder\tictoctoe\zat\game.cpp
+	"game.h"
+	"ai.h"
+	<iostream>
+	<SDL3/SDL_timer.h>
+
+1743948917 source:d:\new folder\tictoctoe\zat\main.cpp
+	"game.h"
+	"render.h"
+	"menu.h"
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<SDL3/SDL_image.h>
+	<ctime>
+
+1744006583 d:\new folder\tictoctoe\zat\render.h
+	"game.h"
+	"background.h"
+
+1744006144 d:\new folder\tictoctoe\zat\menu.h
+	"game.h"
+	<string>
+
+1744006709 source:d:\new folder\tictoctoe\zat\menu.cpp
+	"menu.h"
+	"render.h"
+
+1744006717 source:d:\new folder\tictoctoe\zat\render.cpp
+	"render.h"
+	"menu.h"
+	<cmath>
+	<SDL3/SDL_surface.h>
+
+1744006479 d:\new folder\tictoctoe\zat\background.h
+	"game.h"
+
+1744006597 source:d:\new folder\tictoctoe\zat\background.cpp
+	"background.h"
+	"render.h"
+
+1743404103 source:d:\vs\zat\ai.cpp
+	"ai.h"
+
+1744006564 d:\vs\zat\ai.h
+	"game.h"
+
+1744006144 d:\vs\zat\game.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<string>
+
+1743688834 source:d:\vs\zat\game.cpp
+	"game.h"
+	"ai.h"
+	<iostream>
+	<SDL3/SDL_timer.h>
+
+1743948917 source:d:\vs\zat\main.cpp
+	"game.h"
+	"render.h"
+	"menu.h"
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<SDL3/SDL_image.h>
+	<ctime>
+
+1744006583 d:\vs\zat\render.h
+	"game.h"
+	"background.h"
+
+1744009956 d:\vs\zat\background.h
+	"game.h"
+
+1744009166 d:\vs\zat\menu.h
+	"game.h"
+	<string>
+	"background.h"
+
+1744006709 source:d:\vs\zat\menu.cpp
+	"menu.h"
+	"render.h"
+
+1744010045 source:d:\vs\zat\render.cpp
+	"render.h"
+	"menu.h"
+	<cmath>
+	<SDL3/SDL_surface.h>
+
+1744009980 source:d:\vs\zat\background.cpp
+	"background.h"
+	"render.h"
+
+1744960422 source:c:\users\abc\desktop\zat\ai.cpp
+	"ai.h"
+	<vector>
+	<utility>
+	<algorithm>
+
+1744895667 c:\users\abc\desktop\zat\ai.h
+	"game.h"
+
+1744963523 c:\users\abc\desktop\zat\game.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<string>
+
+1744009980 source:c:\users\abc\desktop\zat\background.cpp
+	"background.h"
+	"render.h"
+
+1744009956 c:\users\abc\desktop\zat\background.h
+	"game.h"
+
+1744792177 c:\users\abc\desktop\zat\render.h
+	"game.h"
+	"background.h"
+
+1744961874 source:c:\users\abc\desktop\zat\game.cpp
+	"game.h"
+	"ai.h"
+	<iostream>
+	<SDL3/SDL_timer.h>
+
+1744894653 source:c:\users\abc\desktop\zat\main.cpp
+	"game.h"
+	"render.h"
+	"menu.h"
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<SDL3/SDL_image.h>
+	<ctime>
+
+1744009166 c:\users\abc\desktop\zat\menu.h
+	"game.h"
+	<string>
+	"background.h"
+
+1744006709 source:c:\users\abc\desktop\zat\menu.cpp
+	"menu.h"
+	"render.h"
+
+1744792256 source:c:\users\abc\desktop\zat\render.cpp
+	"render.h"
+	"menu.h"
+	<cmath>
+	<SDL3/SDL_surface.h>
+
+1744895667 source:c:\users\abc\downloads\video\zat\ai.cpp
+	"ai.h"
+
+1744895667 c:\users\abc\downloads\video\zat\ai.h
+	"game.h"
+
+1744894514 c:\users\abc\downloads\video\zat\game.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<string>
+
+1744009980 source:c:\users\abc\downloads\video\zat\background.cpp
+	"background.h"
+	"render.h"
+
+1744009956 c:\users\abc\downloads\video\zat\background.h
+	"game.h"
+
+1744792177 c:\users\abc\downloads\video\zat\render.h
+	"game.h"
+	"background.h"
+
+1744894514 source:c:\users\abc\downloads\video\zat\game.cpp
+	"game.h"
+	"ai.h"
+	<iostream>
+	<SDL3/SDL_timer.h>
+
+1744894653 source:c:\users\abc\downloads\video\zat\main.cpp
+	"game.h"
+	"render.h"
+	"menu.h"
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<SDL3/SDL_image.h>
+	<ctime>
+
+1744009166 c:\users\abc\downloads\video\zat\menu.h
+	"game.h"
+	<string>
+	"background.h"
+
+1744006709 source:c:\users\abc\downloads\video\zat\menu.cpp
+	"menu.h"
+	"render.h"
+
+1744792256 source:c:\users\abc\downloads\video\zat\render.cpp
+	"render.h"
+	"menu.h"
+	<cmath>
+	<SDL3/SDL_surface.h>
+
+1745201449 source:c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\ai.cpp
+	"ai.h"
+	<vector>
+	<utility>
+	<algorithm>
+
+1744895667 c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\ai.h
+	"game.h"
+
+1745201483 c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\game.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<string>
+
+1745205936 source:c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\background.cpp
+	"background.h"
+	"render.h"
+
+1744009956 c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\background.h
+	"game.h"
+
+1745201483 c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\render.h
+	"game.h"
+	"background.h"
+
+1745205946 source:c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\game.cpp
+	"game.h"
+	"ai.h"
+	"audio.h"
+	<iostream>
+	<SDL3/SDL_timer.h>
+
+1745115643 source:c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\main.cpp
+	"game.h"
+	"render.h"
+	"menu.h"
+	"audio.h"
+	<SDL3/SDL.h>
+	<SDL3/SDL_ttf.h>
+	<SDL3/SDL_image.h>
+	<ctime>
+
+1745201483 c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\menu.h
+	"game.h"
+	<string>
+	"background.h"
+
+1745203821 source:c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\menu.cpp
+	"menu.h"
+	"render.h"
+
+1745155554 source:c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\render.cpp
+	"render.h"
+	"menu.h"
+	<cmath>
+	<SDL3/SDL_surface.h>
+
+1745115582 c:\users\abc\onedrive - vnu.edu.vn\máy tính\zat\audio.h
+	<SDL3/SDL.h>
+	<SDL3/SDL_audio.h>
+

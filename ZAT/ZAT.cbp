@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ZAT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ZAT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Users/ABC/Downloads/Compressed/SDL3-devel-3.2.0-mingw/SDL3-3.2.0/x86_64-w64-mingw32/include" />
+					<Add directory="C:/Users/ABC/Downloads/Compressed/SDL3_ttf-devel-3.2.0-mingw/SDL3_ttf-3.2.0/x86_64-w64-mingw32/include" />
+					<Add directory="C:/Users/ABC/Downloads/Compressed/SDL3_image-devel-3.2.4-mingw/SDL3_image-3.2.4/x86_64-w64-mingw32/include" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/Users/ABC/Downloads/Compressed/SDL3-devel-3.2.0-mingw/SDL3-3.2.0/x86_64-w64-mingw32/lib/libSDL3.dll.a" />
+					<Add library="C:/Users/ABC/Downloads/Compressed/SDL3_ttf-devel-3.2.0-mingw/SDL3_ttf-3.2.0/x86_64-w64-mingw32/lib/libSDL3_ttf.dll.a" />
+					<Add library="C:/Users/ABC/Downloads/Compressed/SDL3_image-devel-3.2.4-mingw/SDL3_image-3.2.4/x86_64-w64-mingw32/lib/libSDL3_image.dll.a" />
+					<Add directory="C:/Users/ABC/Downloads/Compressed/SDL3-devel-3.2.0-mingw/SDL3-3.2.0/x86_64-w64-mingw32/lib" />
+					<Add directory="C:/Users/ABC/Downloads/Compressed/SDL3_ttf-devel-3.2.0-mingw/SDL3_ttf-3.2.0/x86_64-w64-mingw32/lib" />
+					<Add directory="C:/Users/ABC/Downloads/Compressed/SDL3_image-devel-3.2.4-mingw/SDL3_image-3.2.4/x86_64-w64-mingw32/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ZAT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ai.cpp" />
+		<Unit filename="ai.h" />
+		<Unit filename="background.cpp" />
+		<Unit filename="background.h" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="render.cpp" />
+		<Unit filename="render.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
